@@ -1,0 +1,6 @@
+{
+  "name": "MAKEITMYTOUR",
+  "description": "A responsive travel agency website clone featuring upcoming trips, popular destinations, and a modern layout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
